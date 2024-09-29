@@ -2,6 +2,8 @@
 
 My name is Sai Sambhab Mohanty. 
 
+My hobby is playing Cricket.
+
 <!--
 **saisambhabm/saisambhabm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
